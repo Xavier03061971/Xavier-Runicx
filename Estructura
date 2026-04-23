@@ -1,0 +1,18 @@
+xavier-runicx/
+│
+├─ xavier_runicx_controlx3.py
+├─ README.md
+├─ LICENSE
+├─ requirements.txt
+├─ .gitignore
+├─ benchmarks.md
+├─ examples/
+│  ├─ sphere.rx
+│  ├─ rosenbrock.rx
+│  ├─ rastrigin.rx
+│  └─ ackley.rx
+└─ results/
+   ├─ sphere.txt
+   ├─ rosenbrock.txt
+   ├─ rastrigin.txt
+   └─ ackley.txt
